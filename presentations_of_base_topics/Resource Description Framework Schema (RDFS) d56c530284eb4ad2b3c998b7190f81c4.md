@@ -3,12 +3,14 @@
 ## Extension of Resource Description Framework (RDF)
 
 - RDF provides a universal way to encode factual data on the web
+
 - Desirable
     - Statements about generic sets of individuals (classes), e.g. organizations
     - Specification of the logical Relationships between individuals
-    
-    ![Basic_RDF_Graph.svg.png](Resource%20Description%20Framework%20Schema%20(RDFS)%20d56c530284eb4ad2b3c998b7190f81c4/Basic_RDF_Graph.svg.png)
-    
+
+    ```
+    ![image info](./images/Basic_RDF_Graph.svg.png)
+    ```
 
 ## RDF Schema
 
@@ -41,4 +43,6 @@
     
     ## Example
     
-    ![RDFS_example.png](Resource%20Description%20Framework%20Schema%20(RDFS)%20d56c530284eb4ad2b3c998b7190f81c4/RDFS_example.png)
+    ```
+    ![RDFS Example](./images/RDFS_example.png)
+    ```
