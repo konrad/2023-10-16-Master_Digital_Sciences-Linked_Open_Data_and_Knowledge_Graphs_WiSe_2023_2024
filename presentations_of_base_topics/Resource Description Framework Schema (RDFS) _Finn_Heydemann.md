@@ -8,9 +8,7 @@
     - Statements about generic sets of individuals (classes), e.g. organizations
     - Specification of the logical Relationships between individuals
 
-    ```
     ![image info](./images/Basic_RDF_Graph.svg.png)
-    ```
 
 ## RDF Schema
 
@@ -43,6 +41,4 @@
     
     ## Example
     
-    ```
     ![RDFS Example](./images/RDFS_example.png)
-    ```
