@@ -14,7 +14,7 @@
 
 - Most of the Data in the World Wide Web consists of unstructured data
 
-  <img src="https://www.researchgate.net/publication/335927263/figure/fig1/AS:805072904671237@1568955746494/The-growth-of-structured-versus-unstructured-data-over-the-past-decade-41.png" alt="Figure: Relation structured/unstructured Data" width="400" style="width: 400px;">
+<img src="https://www.researchgate.net/publication/335927263/figure/fig1/AS:805072904671237@1568955746494/The-growth-of-structured-versus-unstructured-data-over-the-past-decade-41.png" width="400" style="width: 400px;">
 
 - Problem:
     - Informations are not machine-readable
@@ -74,7 +74,7 @@ Nodes can be defined as
 - Limited to ASCII
 
 
- <img src="https://www.researchgate.net/profile/Harri-Valkonen-2/publication/346585530/figure/fig4/AS:987488491417601@1612447011264/The-illustration-of-the-URL-URN-and-URI-26.png" alt="Figure: Relation structured/unstructured Data" width="400" style="width: 300px;">
+ <img src="https://www.researchgate.net/profile/Harri-Valkonen-2/publication/346585530/figure/fig4/AS:987488491417601@1612447011264/The-illustration-of-the-URL-URN-and-URI-26.png"  width="400" style="width: 300px;">
 
 
  ![image info](https://www.baeldung.com/wp-content/uploads/sites/4/2022/04/URI-example-with-its-cmponents-1.png)
