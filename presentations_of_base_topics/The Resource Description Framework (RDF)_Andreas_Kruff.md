@@ -14,7 +14,7 @@
 
 - Most of the Data in the World Wide Web consists of unstructured data
 
-<img src="https://www.researchgate.net/publication/335927263/figure/fig1/AS:805072904671237@1568955746494/The-growth-of-structured-versus-unstructured-data-over-the-past-decade-41.png" width="400" style="width: 400px;">
+![(Un)structered web data](https://www.researchgate.net/publication/335927263/figure/fig1/AS:805072904671237@1568955746494/The-growth-of-structured-versus-unstructured-data-over-the-past-decade-41.png)
 
 - Problem:
     - Informations are not machine-readable
@@ -43,14 +43,14 @@ and people to work in cooperation.</font>**”
 ### Triple Statements
 
 
- ![image info](./images/Triple_statements_elements.PNG)
- ![image info](./images/Example_triplet.PNG)
+ ![triple_components](./images/Triple_statements_elements.PNG)
+ ![Example_triplet](./images/Example_triplet.PNG)
 
 Nodes can be defined as
 - Resources (e.g. URIs & IRIs)
 - Blank Nodes (bnodes) / Anonymous Resources
 
- ![image info](https://upload.wikimedia.org/wikipedia/commons/d/d6/Blank_node_example_%28w3.org%29.jpg)
+ ![Blank_nodes](https://upload.wikimedia.org/wikipedia/commons/d/d6/Blank_node_example_%28w3.org%29.jpg)
 
 - Literals
     - Integers, Strings, Boolean
@@ -61,7 +61,7 @@ Nodes can be defined as
 
 ## General RDF Framework
 
- ![image info](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFlpiSNnFFd13PvbLrjX-2cYxAngQpkXieA&usqp=CAU)
+ ![General RDF Framework](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDFlpiSNnFFd13PvbLrjX-2cYxAngQpkXieA&usqp=CAU)
 
 
 ## URI / IRI
@@ -74,10 +74,10 @@ Nodes can be defined as
 - Limited to ASCII
 
 
- <img src="https://www.researchgate.net/profile/Harri-Valkonen-2/publication/346585530/figure/fig4/AS:987488491417601@1612447011264/The-illustration-of-the-URL-URN-and-URI-26.png"  width="400" style="width: 300px;">
+ ![Definition URI](https://www.researchgate.net/profile/Harri-Valkonen-2/publication/346585530/figure/fig4/AS:987488491417601@1612447011264/The-illustration-of-the-URL-URN-and-URI-26.png)
 
 
- ![image info](https://www.baeldung.com/wp-content/uploads/sites/4/2022/04/URI-example-with-its-cmponents-1.png)
+ ![Components Uri](https://www.baeldung.com/wp-content/uploads/sites/4/2022/04/URI-example-with-its-cmponents-1.png)
 
 Alternative Option: IRIs (Internationalized Resource Identifier)
 
@@ -85,13 +85,13 @@ Alternative Option: IRIs (Internationalized Resource Identifier)
 
 ## Popular syntaxes for Serialization of RDF
 # RDFa
- ![image info](https://www.mageworx.com/media/wysiwyg/wiki-2/SEO/Definitions/Screenshot_2.png)
+ ![Example RDFa](https://www.mageworx.com/media/wysiwyg/wiki-2/SEO/Definitions/Screenshot_2.png)
 # RDF/XML
- ![image info](https://slideplayer.com/slide/3416105/12/images/33/Example.jpg)
+ ![Example RDF/XML](https://slideplayer.com/slide/3416105/12/images/33/Example.jpg)
 # JSON-LD
- ![image info](https://hallanalysis.com/wp-content/uploads/2016/03/json-ld.png)
+ ![Example JSON-LD](https://hallanalysis.com/wp-content/uploads/2016/03/json-ld.png)
 # Turtle
- ![image info](https://miro.medium.com/v2/resize:fit:916/1*WgqGqn1tcd_aSpQbN45aBw.png)
+ ![Example Turtle](https://miro.medium.com/v2/resize:fit:916/1*WgqGqn1tcd_aSpQbN45aBw.png)
 
 ## Ontologies / Vocabularies
 
