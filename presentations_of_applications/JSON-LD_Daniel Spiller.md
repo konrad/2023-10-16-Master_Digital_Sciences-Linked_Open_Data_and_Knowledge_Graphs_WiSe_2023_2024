@@ -8,7 +8,7 @@ interrelated
 datasets on the
 Web 
 
-![own illustration](./images/image.png)
+![own illustration](./images/JSON-LD2.png)
 
 ### What is JSON-LD?
 - JSON-based syntax
@@ -31,7 +31,7 @@ the JSON data to RDF
 
 ### Example of JSON-LD code
 
-![own illustration](./images/image-1.png)
+![own illustration](./images/JSON-LD1.png)
 
 
 ### Use Cases for JSON-LD
